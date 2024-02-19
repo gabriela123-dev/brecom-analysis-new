@@ -1,0 +1,5 @@
+pandas
+kaggle
+numpy
+wordcloud
+nltk
